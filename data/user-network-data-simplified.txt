@@ -1,0 +1,132 @@
+Lekan Wang	red	6	10	0	6
+Cinjon Resnick	green	4	3	6	0
+Paul Wais	purple	2	2	1	6
+Jon Rodriguez	purple	20	6	15	6
+Tudor Achim	green	6	1	8	6
+Nate Flink	purple	0	0	0	6
+Ian MacLeod	green	0	0	8	6
+Stephen Turner	purple	1	0	1	-1
+Amal Dorai	red	1	2	0	6
+Jean Michel Grimaldi	green	1	2	3	-1
+Dan Kaplan	red	5	11	1	6
+Rohit Dholakia	green	1	0	12	12
+Brad Silverman	purple	3	1	0	6
+Sjoerd Lagarde	green	2	1	3	6
+Bob Hancock	green	0	1	2	-1
+Achilleas Vortselas	purple	3	0	1	6
+Ohad Assulin	green	3	0	11	-1
+Andrew Badr	red	1	3	1	-1
+Robert Bronaugh	green	1	0	13	-1
+Tracy Chou	purple	11	11	10	6
+Stephan Orme	red	2	10	3	6
+Kah Seng Tay	red	5	16	10	6
+Christopher Lin	red	5	7	4	6
+Sarp Centel	red	0	7	3	-1
+Paul Sawaya	purple	17	8	12	-1
+Cameron A. Ellis	green	0	0	1	6
+Chris Sattinger	red	0	1	0	-1
+Akhil Ravidas	green	5	3	7	-1
+Alina Libova	green	2	6	13	6
+Siqi Chen	red	4	10	6	6
+Ian Hook	green	0	0	2	6
+Jamie Beckland	purple	5	3	0	6
+Gabriel Czerwonka	purple	19	10	1	6
+Matej Pangerc	red	2	4	0	6
+Varun Khaneja	red	1	4	0	6
+Thomas Jones	purple	6	0	0	6
+Khader Shameer	green	3	0	8	-1
+Alex Kamil	purple	0	0	0	12
+Matt Biddulph	green	3	1	9	-1
+Varun Gulshan	purple	7	6	3	-1
+Drazen Zaric	green	0	0	11	12
+Hector Yee	green	1	3	4	6
+Gustav Meeuwenflatser	green	9	13	17	6
+Haricharan Vijayaraghavan	purple	20	17	16	6
+Lee Becker	green	1	0	2	-1
+Rob Leathern	red	2	8	5	6
+Ludi Rehak	purple	10	2	1	6
+Aaron Chiu	red	12	14	1	6
+Neville Fogarty	purple	5	1	2	6
+Venkatesh Rao	purple	3	1	0	6
+Jason Yun	purple	3	3	0	6
+Matt Hastie	purple	7	0	0	6
+Chad Little	red	5	11	0	6
+Ani Ravi	purple	1	0	0	6
+Richard Jones	green	1	0	2	-1
+Gregory Begelman	green	0	0	2	-1
+Johnathan Lyon	purple	7	0	6	6
+Ryan Cox	green	1	0	6	12
+Maisy Samuelson	red	0	6	1	6
+Christian Langreiter	green	0	0	6	12
+Olivier Grisel	green	1	0	8	12
+Joseph Turian	green	0	3	10	12
+Shalin Shekhar Mangar	purple	0	0	0	12
+Nikete Della Penna	purple	1	0	1	12
+Joel Boehland	green	5	1	9	12
+Roland Kofler	purple	2	0	2	12
+Chung Wu	red	0	5	2	6
+Hao Wooi Lim	green	0	0	8	12
+Joey Ranzenbach	red	0	2	0	-1
+Yan Li	green	1	3	10	0
+Paul Tepper	green	0	0	2	-1
+Steven Baehr	green	2	0	9	0
+Vipul Pandey	green	0	0	4	-1
+Sasha Katsnelson	purple	16	12	9	6
+Peter Alderson	red	0	3	0	-1
+Lyle Pratt	red	0	6	0	-1
+Zhitong He	red	0	1	0	-1
+Shahid Khan	purple	1	0	1	-1
+Deonna Hodges	purple	1	0	1	-1
+Harsh Pareek	green	8	7	12	12
+Sundeep Yedida	purple	9	7	7	6
+Scott Leishman	green	0	0	2	-1
+Lavanya Tekumalla	green	0	0	3	-1
+Aditya Sengupta	green	11	8	15	6
+Ellie Kesselman	green	1	0	2	-1
+Arik Beremzon	red	6	10	5	6
+A J Juliani	red	0	8	0	6
+Edwin Khoo	purple	14	5	14	6
+Marc Bodnick	purple	4	2	0	6
+Sundeep Kumar	red	3	13	8	6
+Salik Syed	green	0	1	2	6
+Sameep Tandon	red	0	1	0	-1
+Nimalan Mahendran	green	3	12	13	12
+John Biesnecker	green	0	0	2	0
+Kliment Mamykin	red	1	3	0	-1
+Robert Rapplean	purple	3	2	3	6
+Phillip Rhodes	green	3	14	17	12
+Scott Varcoe	purple	3	0	0	-1
+Aditya Mukherji	green	1	1	2	6
+Kevin Po	purple	1	1	0	-1
+Edmond Lau	red	9	12	8	6
+Brien Colwell	red	1	3	2	6
+Harris B Daniels	purple	9	2	1	-1
+Brian Dawson	purple	5	3	1	6
+Tapan Pandita	green	1	1	5	6
+Mike Curtiss	red	0	2	0	-1
+Belinda Gu	red	3	6	3	6
+Nathan Stephens	green	0	1	4	-1
+Matt Koidin	red	1	5	1	6
+Paco Nathan	green	2	5	12	-1
+Vladimir Zaytsev	green	0	0	2	-1
+Nishant Bhat	purple	3	2	1	-1
+Dustin Ho	green	2	2	3	-1
+Laurence Wilse Samson	green	3	0	4	12
+C V Krishnakumar	green	2	4	7	6
+Ryan Schroeder	red	0	1	0	6
+Cristina Scheau	green	4	9	12	12
+Max Kleiman Weiner	green	1	1	2	-1
+Matthew J Feldman	purple	2	0	2	0
+Grzegorz Gwardys	green	0	0	1	12
+Jason Raycroft	purple	2	0	1	0
+Simon Woodside	red	0	2	0	-1
+David Dennis	green	0	0	2	0
+Haider Khan	green	3	1	9	0
+Robert Renaud	green	1	1	4	6
+Josh Greenwald	green	0	0	2	12
+Nick Harding	green	0	1	3	0
+Taylor Buley	red	2	8	3	6
+Ashwin Purohit	red	0	1	0	-1
+Gabriel Czerwonka	purple	19	10	1	6
+A J Juliani	red	0	8	0	6
+Salik Syed	green	0	1	2	6

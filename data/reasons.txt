@@ -1,0 +1,141 @@
+/Lekan-Wang	1		Feb 15, 2011
+/Nate-Flink	0		Feb 15, 2011
+/Ian-MacLeod	1		Feb 15, 2011
+/Stephen-Turner	0		Feb 15, 2011
+/Cinjon-Resnick	1		Feb 15, 2011
+/Amal-Dorai	1		Feb 15, 2011
+/Jean-Michel-Grimaldi	1		Feb 15, 2011
+/Dan-Kaplan	1		Feb 15, 2011
+/Phil-Tomson	0		Feb 15, 2011
+/Rohit-Dholakia	1		Feb 15, 2011
+/Brad-Silverman	0	/Amal-Dorai	Feb 15, 2011
+/Sjoerd-Lagarde	1		Feb 16, 2011
+/Bob-Hancock	0		Feb 16, 2011
+/Achilleas-Vortselas	0		Feb 16, 2011
+/Ohad-Assulin	1		Feb 16, 2011
+/Tim-Reid	0		Feb 16, 2011
+/Andrew-Badr	0		Feb 18, 2011
+/Robert-Bronaugh	1	/Andrew-Badr	Feb 21, 2011
+/Tracy-Chou	1		Feb 21, 2011
+/Stephan-Orme	0		Feb 21, 2011
+/Kah-Seng-Tay	1	/Tracy-Chou	Feb 21, 2011
+/Christopher-Lin	1	/Tracy-Chou	Feb 21, 2011
+/Sarp-Centel	1	/Tracy-Chou	Feb 21, 2011
+/Paul-Sawaya	1	/Kah-Seng-Tay	Feb 21, 2011
+/Cameron-A.-Ellis	0	/Dan-Kaplan	Feb 21, 2011
+/Chris-Sattinger	1		Feb 21, 2011
+/Paul-Wais	0	/Tracy-Chou	Feb 21, 2011
+/Akhil-Ravidas	1	/Tracy-Chou	Feb 21, 2011
+/Sergey-Kucherenko	1		Feb 24, 2011
+/Alina-Libova	1		Feb 27, 2011
+/Siqi-Chen	0	/Tracy-Chou	Feb 27, 2011
+/Ian-Hook	1		Feb 27, 2011
+/Chad-Little	1		Mar 10, 2011
+/Jamie-Beckland	0	/Chad-Little	Mar 10, 2011
+/Gabriel-Czerwonka	0	/Jamie-Beckland	Mar 10, 2011
+/Matej-Pangerc	0	/Chad-Little	Mar 11, 2011
+/Varun-Khaneja	1	/Chad-Little	Mar 11, 2011
+/Thomas-Jones	0		Mar 14, 2011
+/Khader-Shameer	1		Apr 5, 2011
+/Alex-Kamil	0	/Khader-Shameer	Apr 5, 2011
+/Matt-Biddulph	1		Apr 5, 2011
+/Varun-Gulshan	1		Apr 5, 2011
+/Drazen-Zaric	1		Apr 5, 2011
+/Hector-Yee	1	/Alex-Kamil	Apr 5, 2011
+/Gustav-Meeuwenflatser	1		Apr 5, 2011
+/Haricharan-Vijayaraghavan	1		Apr 5, 2011
+/Lee-Becker	1		Apr 6, 2011
+/Rob-Leathern	1	/Alex-Kamil	Apr 6, 2011
+/Joel-Finnström	0		Apr 8, 2011
+/Ludi-Rehak	1	/Alex-Kamil	Apr 8, 2011
+/Aaron-Chiu	1	/Ludi-Rehak	Apr 8, 2011
+/Neville-Fogarty	0	/Alex-Kamil	Apr 8, 2011
+/Venkatesh-Rao	0	/Ludi-Rehak	Apr 8, 2011
+/Jason-Yun	0	/Alex-Kamil	Apr 8, 2011
+/Matt-Hastie	0	/Neville-Fogarty	Apr 8, 2011
+/Ani-Ravi	0	/Ludi-Rehak	Apr 8, 2011
+/Richard-Jones	0	/Matt-Biddulph	Apr 8, 2011
+/Maurizio-Caló	0		Apr 9, 2011
+/Gregory-Begelman	1		Apr 10, 2011
+/Johnathan-Lyon	1		Apr 15, 2011
+/Ryan-Cox	0		Apr 16, 2011
+/Maisy-Samuelson	0		Apr 16, 2011
+/Christian-Langreiter	1		Apr 17, 2011
+/Olivier-Grisel	1	/Christian-Langreiter	Apr 17, 2011
+/Joseph-Turian	1	/Olivier-Grisel	Apr 17, 2011
+/Shalin-Shekhar-Mangar	1	/Joseph-Turian	Apr 17, 2011
+/Nikete-Della-Penna	1		Apr 17, 2011
+/Joel-Boehland	1	/Christian-Langreiter	Apr 18, 2011
+/Roland-Kofler	1	/Christian-Langreiter	Apr 19, 2011
+/Chung-Wu	0		Apr 19, 2011
+/Hao-Wooi-Lim	1	/Olivier-Grisel	Apr 22, 2011
+/Joey-Ranzenbach	0		Apr 23, 2011
+/Yan-Li	1		Apr 27, 2011
+/Paul-Tepper	1		Apr 28, 2011
+/Steven-Baehr	1		Apr 29, 2011
+/Vipul-Pandey	1		Apr 29, 2011
+/Sasha-Katsnelson	1		Apr 30, 2011
+/Peter-Alderson	1		May 3, 2011
+/Anthony-Kong	0		May 5, 2011
+/Lyle-Pratt	1		May 15, 2011
+/Zhitong-He	1		May 22, 2011
+/Shahid-Khan	1		May 23, 2011
+/Deonna-Hodges	0		May 26, 2011
+/Harsh-Pareek	1		Jun 9, 2011
+/Jon-Rodriguez	1		Jun 12, 2011
+/Sundeep-Yedida	1	/Jon-Rodriguez	Jun 13, 2011
+/Scott-Leishman	1		Jun 16, 2011
+/Bhavya-Arnav	1		Jul 3, 2011
+/Lavanya-Tekumalla	1		Jul 5, 2011
+/Aditya-Sengupta	1		Jul 10, 2011
+/Ellie-Kesselman	0		Jul 10, 2011
+/Arik-Beremzon	1		Jul 10, 2011
+/A-J-Juliani	0	/Arik-Beremzon	Jul 10, 2011
+/Edwin-Khoo	1	/Aditya-Sengupta	Jul 10, 2011
+/Marc-Bodnick	0	/Aditya-Sengupta	Jul 10, 2011
+/Sundeep-Kumar	1	/Edwin-Khoo	Jul 10, 2011
+/Salik-Syed	0		Jul 11, 2011
+/Sameep-Tandon	1		Jul 11, 2011
+/Nimalan-Mahendran	1		Jul 12, 2011
+/John-Biesnecker	1		Jul 12, 2011
+/Kliment-Mamykin	0		Jul 12, 2011
+/Robert-Rapplean	1		Jul 12, 2011
+/Phillip-Rhodes	1	/Ellie-Kesselman	Jul 12, 2011
+/Scott-Varcoe	1		Jul 13, 2011
+/Tudor-Achim	1	/Marc-Bodnick	Jul 13, 2011
+/Aditya-Mukherji	1	/Tudor-Achim	Jul 13, 2011
+/Kevin-Po	0		Jul 13, 2011
+/Edmond-Lau	1	/Marc-Bodnick	Jul 13, 2011
+/Brien-Colwell	1	/Marc-Bodnick	Jul 13, 2011
+/Harris-B-Daniels	1	/Edwin-Khoo	Jul 13, 2011
+/Brian-Dawson	1	/Tudor-Achim	Jul 13, 2011
+/Tapan-Pandita	1		Jul 13, 2011
+/Mike-Curtiss	0		Jul 14, 2011
+/Belinda-Gu	1	/Marc-Bodnick	Jul 14, 2011
+/Nathan-Stephens	0	/Ellie-Kesselman	Jul 14, 2011
+/Matt-Koidin	0		Jul 14, 2011
+/Paco-Nathan	1	/Ellie-Kesselman	Jul 14, 2011
+/Vladimir-Zaytsev	1		Jul 14, 2011
+/Zach-Abel	1		Jul 15, 2011
+/Nishant-Bhat	0	/Sameep-Tandon	Jul 17, 2011
+/Dustin-Ho	1	/Sameep-Tandon	Jul 17, 2011
+/Laurence-Wilse-Samson	1	/Paco-Nathan	Jul 18, 2011
+/C-V-Krishnakumar	1	/Edmond-Lau	Jul 18, 2011
+/Mircea-Paşoi	0		Jul 20, 2011
+/Raymond-Zhou	1		Jul 20, 2011
+/Ryan-Schroeder	0		Jul 21, 2011
+/Cristina-Scheau	1		Jul 22, 2011
+/Max-Kleiman-Weiner	1		Jul 23, 2011
+/Matthew-J-Feldman	1		Jul 24, 2011
+/Grzegorz-Gwardys	1		Jul 25, 2011
+/Jason-Raycroft	1		Jul 28, 2011
+/Simon-Woodside	0		Jul 30, 2011
+/David-Dennis	1		Aug 1, 2011
+/Haider-Khan	1		Aug 2, 2011
+/Robert-Renaud	1		Aug 2, 2011
+/Josh-Greenwald	1		Aug 3, 2011
+/Nick-Harding	1		Aug 5, 2011
+/Taylor-Buley	1		Aug 8, 2011
+/Jason-Katz-Brown	0		Aug 11, 2011
+/Ashwin-Purohit	1		Aug 15, 2011
+/Taj-Abdullahi	1		Aug 21, 2011

@@ -1,0 +1,141 @@
+Taj Abdullahi	Aug 21, 2011
+Ashwin Purohit	Aug 15, 2011
+Jason Katz Brown	Aug 11, 2011
+Taylor Buley	Aug 8, 2011
+Nick Harding	Aug 5, 2011
+Josh Greenwald	Aug 3, 2011
+Robert Renaud	Aug 2, 2011
+Haider Khan	Aug 2, 2011
+David Dennis	Aug 1, 2011
+Simon Woodside	Jul 30, 2011
+Jason Raycroft	Jul 28, 2011
+Grzegorz Gwardys	Jul 25, 2011
+Matthew J Feldman	Jul 24, 2011
+Max Kleiman Weiner	Jul 23, 2011
+Cristina Scheau	Jul 22, 2011
+Ryan Schroeder	Jul 21, 2011
+Raymond Zhou	Jul 20, 2011
+Mircea Paşoi	Jul 20, 2011
+C V Krishnakumar	Jul 18, 2011
+Laurence Wilse Samson	Jul 18, 2011
+Dustin Ho	Jul 17, 2011
+Nishant Bhat	Jul 17, 2011
+Zach Abel	Jul 15, 2011
+Vladimir Zaytsev	Jul 14, 2011
+Paco Nathan	Jul 14, 2011
+Matt Koidin	Jul 14, 2011
+Nathan Stephens	Jul 14, 2011
+Belinda Gu	Jul 14, 2011
+Mike Curtiss	Jul 14, 2011
+Tapan Pandita	Jul 13, 2011
+Brian Dawson	Jul 13, 2011
+Harris B Daniels	Jul 13, 2011
+Brien Colwell	Jul 13, 2011
+Edmond Lau	Jul 13, 2011
+Kevin Po	Jul 13, 2011
+Aditya Mukherji	Jul 13, 2011
+Tudor Achim	Jul 13, 2011
+Scott Varcoe	Jul 13, 2011
+Phillip Rhodes	Jul 12, 2011
+Robert Rapplean	Jul 12, 2011
+Kliment Mamykin	Jul 12, 2011
+John Biesnecker	Jul 12, 2011
+Nimalan Mahendran	Jul 12, 2011
+Sameep Tandon	Jul 11, 2011
+Salik Syed	Jul 11, 2011
+Sundeep Kumar	Jul 10, 2011
+Marc Bodnick	Jul 10, 2011
+Edwin Khoo	Jul 10, 2011
+A J Juliani	Jul 10, 2011
+Arik Beremzon	Jul 10, 2011
+Ellie Kesselman	Jul 10, 2011
+Aditya Sengupta	Jul 10, 2011
+Lavanya Tekumalla	Jul 5, 2011
+Bhavya Arnav	Jul 3, 2011
+Scott Leishman	Jun 16, 2011
+Sundeep Yedida	Jun 13, 2011
+Jon Rodriguez	Jun 12, 2011
+Harsh Pareek	Jun 9, 2011
+Deonna Hodges	May 26, 2011
+Shahid Khan	May 23, 2011
+Zhitong He	May 22, 2011
+Lyle Pratt	May 15, 2011
+Anthony Kong	May 5, 2011
+Peter Alderson	May 3, 2011
+Sasha Katsnelson	Apr 30, 2011
+Vipul Pandey	Apr 29, 2011
+Steven Baehr	Apr 29, 2011
+Paul Tepper	Apr 28, 2011
+Yan Li	Apr 27, 2011
+Joey Ranzenbach	Apr 23, 2011
+Hao Wooi Lim	Apr 22, 2011
+Chung Wu	Apr 19, 2011
+Roland Kofler	Apr 19, 2011
+Joel Boehland	Apr 18, 2011
+Nikete Della Penna	Apr 17, 2011
+Shalin Shekhar Mangar	Apr 17, 2011
+Joseph Turian	Apr 17, 2011
+Olivier Grisel	Apr 17, 2011
+Christian Langreiter	Apr 17, 2011
+Maisy Samuelson	Apr 16, 2011
+Ryan Cox	Apr 16, 2011
+Johnathan Lyon	Apr 15, 2011
+Gregory Begelman	Apr 10, 2011
+Maurizio Caló	Apr 9, 2011
+Richard Jones	Apr 8, 2011
+Ani Ravi	Apr 8, 2011
+Matt Hastie	Apr 8, 2011
+Jason Yun	Apr 8, 2011
+Venkatesh Rao	Apr 8, 2011
+Neville Fogarty	Apr 8, 2011
+Aaron Chiu	Apr 8, 2011
+Ludi Rehak	Apr 8, 2011
+Joel Finnström	Apr 8, 2011
+Rob Leathern	Apr 6, 2011
+Lee Becker	Apr 6, 2011
+Haricharan Vijayaraghavan	Apr 5, 2011
+Gustav Meeuwenflatser	Apr 5, 2011
+Hector Yee	Apr 5, 2011
+Drazen Zaric	Apr 5, 2011
+Varun Gulshan	Apr 5, 2011
+Matt Biddulph	Apr 5, 2011
+Alex Kamil	Apr 5, 2011
+Khader Shameer	Apr 5, 2011
+Thomas Jones	Mar 14, 2011
+Varun Khaneja	Mar 11, 2011
+Matej Pangerc	Mar 11, 2011
+Gabriel Czerwonka	Mar 10, 2011
+Jamie Beckland	Mar 10, 2011
+Chad Little	Mar 10, 2011
+Ian Hook	Feb 27, 2011
+Siqi Chen	Feb 27, 2011
+Alina Libova	Feb 27, 2011
+Sergey Kucherenko	Feb 24, 2011
+Akhil Ravidas	Feb 21, 2011
+Paul Wais	Feb 21, 2011
+Chris Sattinger	Feb 21, 2011
+Cameron A. Ellis	Feb 21, 2011
+Paul Sawaya	Feb 21, 2011
+Sarp Centel	Feb 21, 2011
+Christopher Lin	Feb 21, 2011
+Kah Seng Tay	Feb 21, 2011
+Stephan Orme	Feb 21, 2011
+Tracy Chou	Feb 21, 2011
+Robert Bronaugh	Feb 21, 2011
+Andrew Badr	Feb 18, 2011
+Tim Reid	Feb 16, 2011
+Ohad Assulin	Feb 16, 2011
+Achilleas Vortselas	Feb 16, 2011
+Bob Hancock	Feb 16, 2011
+Sjoerd Lagarde	Feb 16, 2011
+Brad Silverman	Feb 15, 2011
+Rohit Dholakia	Feb 15, 2011
+Phil Tomson	Feb 15, 2011
+Dan Kaplan	Feb 15, 2011
+Jean Michel Grimaldi	Feb 15, 2011
+Amal Dorai	Feb 15, 2011
+Cinjon Resnick	Feb 15, 2011
+Stephen Turner	Feb 15, 2011
+Ian MacLeod	Feb 15, 2011
+Nate Flink	Feb 15, 2011
+Lekan Wang	Feb 15, 2011
